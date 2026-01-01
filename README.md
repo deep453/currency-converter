@@ -5,7 +5,7 @@ A simple currency converter using HTML, CSS, JavaScript and a real-time exchange
 A simple and responsive **Currency Converter** built using **HTML, CSS, and JavaScript**, which fetches real-time exchange rates using a public API.
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/currency-converter/
+👉 https://deep453.github.io/currency-converter/
 
 ---
 
